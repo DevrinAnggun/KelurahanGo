@@ -1,7 +1,7 @@
 # KelurahanGo
 🏡 Sistem Administrasi Kelurahan Berbasis CLI
 
-KelurahanGo adalah aplikasi Command Line Interface (CLI) yang dikembangkan menggunakan bahasa pemrograman Golang 🐹.
+KelurahanGo adalah aplikasi Command Line Interface (CLI) yang dikembangkan menggunakan bahasa pemrograman Golang ⚙️.
 Proyek ini bertujuan untuk membantu pengelolaan informasi dan layanan administrasi desa atau kelurahan dengan mudah dan efisien langsung dari terminal 💻.
 
 ✨ Fitur Utama
